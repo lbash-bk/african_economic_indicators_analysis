@@ -1,0 +1,31 @@
+Country,Variable 1,Variable 2,Pearson Correlation,Observations
+"Egypt, Arab Rep.",gdp_growth,inflation,0.017202953033044175,26
+"Egypt, Arab Rep.",gdp_growth,unemployment,-0.3535657456750106,26
+"Egypt, Arab Rep.",gdp_per_capita,internet_users,0.8777218497197306,25
+"Egypt, Arab Rep.",population,gdp_per_capita,0.8865610310218645,26
+"Egypt, Arab Rep.",oil_rents,gdp_growth,0.2917469120304453,22
+"Egypt, Arab Rep.",exchange_rate,inflation,0.6098769130934315,26
+Ghana,gdp_growth,inflation,-0.37074936315851786,26
+Ghana,gdp_growth,unemployment,-0.2244957708163364,26
+Ghana,gdp_per_capita,internet_users,0.8139898529173669,25
+Ghana,population,gdp_per_capita,0.9621673057209432,26
+Ghana,oil_rents,gdp_growth,0.40336006992297635,22
+Ghana,exchange_rate,inflation,0.12631104434805507,26
+Kenya,gdp_growth,inflation,-0.2009411432913681,26
+Kenya,gdp_growth,unemployment,0.06866716146121997,26
+Kenya,gdp_per_capita,internet_users,0.9591256126160699,25
+Kenya,population,gdp_per_capita,0.9919759046681924,26
+Kenya,oil_rents,gdp_growth,0.23268487210884156,22
+Kenya,exchange_rate,inflation,-0.4458538324351256,26
+Nigeria,gdp_growth,inflation,-0.14762821402005388,26
+Nigeria,gdp_growth,unemployment,-0.6443684672716693,26
+Nigeria,gdp_per_capita,internet_users,0.6296786798028884,25
+Nigeria,population,gdp_per_capita,0.5549122038070115,26
+Nigeria,oil_rents,gdp_growth,0.5586580539959941,22
+Nigeria,exchange_rate,inflation,0.7780720237194665,26
+South Africa,gdp_growth,inflation,-0.04771126233451131,26
+South Africa,gdp_growth,unemployment,-0.3946155162333833,26
+South Africa,gdp_per_capita,internet_users,0.4202804762208251,25
+South Africa,population,gdp_per_capita,0.44202845507844746,26
+South Africa,oil_rents,gdp_growth,0.5597603112945105,22
+South Africa,exchange_rate,inflation,0.032238706885635335,26

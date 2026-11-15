@@ -1,0 +1,7 @@
+indicator_pair,pearson_r,spearman_r,n
+GDP growth vs inflation,0.063,0.174,130
+GDP growth vs unemployment,-0.408,-0.401,130
+GDP per capita vs internet users,0.564,0.736,125
+Population vs GDP per capita,-0.023,0.319,130
+Oil rents vs GDP growth,0.31,0.251,110
+Exchange rate vs inflation,0.283,0.042,130

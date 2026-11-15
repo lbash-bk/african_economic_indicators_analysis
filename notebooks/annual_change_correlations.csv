@@ -1,0 +1,4 @@
+Variable 1,Variable 2,Pearson Correlation,Observations
+gdp_per_capita_pct_change,internet_users_pct_change,0.13746818864732802,120
+population_pct_change,gdp_per_capita_pct_change,0.13808253468664636,125
+exchange_rate_pct_change,inflation,0.6005363530237876,125

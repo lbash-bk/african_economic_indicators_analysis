@@ -1,0 +1,7 @@
+Variable 1,Variable 2,Pearson Correlation,Observations
+gdp_growth,inflation,0.06250359268404725,130
+gdp_growth,unemployment,-0.407694778288094,130
+gdp_per_capita,internet_users,0.5638462075452058,125
+population,gdp_per_capita,-0.023060178695175636,130
+oil_rents,gdp_growth,0.3096559424589465,110
+exchange_rate,inflation,0.28349371949737806,130

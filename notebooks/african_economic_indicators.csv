@@ -1,0 +1,1041 @@
+country,country_code,indicator_code,indicator,year,value,unit
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2000,3.47205,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2001,3.973,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2002,4.49966666666666,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2003,5.850875,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2004,6.19624166666666,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2005,5.77883333333333,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2006,5.73316666666666,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2007,5.63543333333333,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2008,5.43249999999999,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2009,5.54455330862977,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2010,5.6219429176105,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2011,5.93282765151515,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2012,6.05605833333333,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2013,6.87032499999999,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2014,7.07760856060606,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2015,7.69125833333333,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2016,10.0254007885464,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2017,17.7825335150635,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2018,17.7672904218106,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2019,16.7705818428763,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2020,15.7591729166666,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2021,15.6445272777113,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2022,19.1604397412204,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2023,30.626413698031,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2024,45.29926,Local currency units per USD
+"Egypt, Arab Rep.",EGY,PA.NUS.FCRF,exchange_rate,2025,49.2277558333333,Local currency units per USD
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2000,6.37000382991766,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2001,3.53525197391507,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2002,2.39020402675627,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2003,3.19345473756772,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2004,4.09207161019908,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2005,4.4717444710621,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2006,6.84383819369884,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2007,7.08782742675582,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2008,7.15628356711522,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2009,4.67359980000663,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2010,5.14723485746742,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2011,1.76457194806041,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2012,2.22619979818487,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2013,2.18546605363386,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2014,2.91591188052836,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2015,4.37201907781687,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2016,4.34664345601914,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2017,4.18122099961562,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2018,5.33110861887155,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2019,5.55209307084222,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2020,3.55016483883115,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2021,3.29064601193245,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2022,6.58784560870467,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2023,3.76028052279247,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2024,2.3991692678251,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.MKTP.KD.ZG,gdp_growth,2025,4.39201068570188,Percentage (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2000,1366.09274372613,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2001,1295.1374184163,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2002,1116.82884626213,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2003,1031.27556291284,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2004,991.255689145253,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2005,1105.53920713903,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2006,1298.97900203124,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2007,1547.74170735909,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2008,1896.21594269779,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2009,2161.63964573927,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2010,2455.08194645282,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2011,2590.64384891965,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2012,2996.0677072015,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2013,3025.52563552448,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2014,3133.39102265541,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2015,3306.98159414141,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2016,3270.6287768197,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2017,2395.10333299491,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2018,2484.70315630508,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2019,2962.98892023003,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2020,3511.11381026379,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2021,3827.35415374308,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2022,4233.30783744856,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2023,3456.78965212363,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2024,3338.47371043679,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.CD,gdp_per_capita,2025,3085.80712036204,Current US Dollars (USD)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2000,2.68380535348546,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2001,2.26975720475955,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2002,2.73723855000334,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2003,4.50777636319303,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2004,11.2706193320519,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2005,4.86939696871988,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2006,7.64452644526434,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2007,9.31896905799229,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2008,18.3168316831684,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2009,11.7634954386443,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2010,11.2651882653185,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2011,10.0649259874818,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2012,7.11172943343082,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2013,9.4697198106492,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2014,10.0702154687481,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2015,10.370490343517,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2016,13.8136062148289,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2017,29.5066083940038,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2018,14.4014657807421,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2019,9.15279959324803,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2020,5.04493288977538,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2021,5.21404940513042,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2022,13.8956609775177,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2023,33.8847763115546,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2024,28.2705899322082,Percentage (%)
+"Egypt, Arab Rep.",EGY,FP.CPI.TOTL.ZG,inflation,2025,14.0735136645933,Percentage (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2000,0.641265037504813,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2001,0.838945611477604,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2002,2.71999971465421,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2003,4.03788510706701,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2004,11.92,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2005,12.75,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2006,13.66,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2007,16.03,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2008,18.01,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2009,20.0,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2010,21.6,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2011,25.6,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2012,26.4,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2013,29.4,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2014,33.8946039115275,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2015,37.8193834276939,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2016,41.2480670885772,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2017,44.9502042452857,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2018,46.92433676792,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2019,57.2828663990195,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2020,71.91420096,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2021,72.05599976,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2022,72.19806556,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2023,74.01190186,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2024,74.64839935,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,IT.NET.USER.ZS,internet_users,2025,,Percentage of population (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2000,6.47222160611776,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2001,5.17066273278314,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2002,5.90580704386046,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2003,7.50637371077042,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2004,9.49448631419397,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2005,11.8509312061057,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2006,11.7296934107586,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2007,10.7818588338143,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2008,12.4545677729971,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2009,6.24755741424533,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2010,7.41778712942652,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2011,9.74186285549743,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2012,8.38345897037217,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2013,7.82863019779494,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2014,6.82340013626772,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2015,3.05526433674059,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2016,2.35006516963224,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2017,4.12683269397819,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2018,5.47658822874947,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2019,3.8819618632175,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2020,1.85770095140202,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2021,2.98581458250197,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2022,,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2023,,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2024,,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,NY.GDP.PETR.RT.ZS,oil_rents,2025,,Percentage of GDP (%)
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2000,73083284.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2001,74652029.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2002,76239137.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2003,77853548.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2004,79477443.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2005,81101004.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2006,82700403.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2007,84276225.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2008,85864789.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2009,87501636.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2010,89196072.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2011,91093059.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2012,93161001.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2013,95333553.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2014,97528654.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2015,99597342.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2016,101644589.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2017,103696057.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2018,105682094.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2019,107553158.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2020,109315124.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2021,110957008.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2022,112618250.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2023,114535772.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2024,116538258.0,Number of people
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,population,2025,118365995.0,Number of people
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2000,8.98,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2001,9.26,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2002,10.01,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2003,10.91,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2004,10.32,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2005,11.049,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2006,10.49,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2007,8.8,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2008,8.517,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2009,9.087,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2010,8.757,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2011,11.849,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2012,12.597,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2013,13.154,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2014,13.105,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2015,13.052,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2016,12.45,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2017,11.767,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2018,9.855,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2019,7.851,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2020,7.974,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2021,7.441,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2022,6.546,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2023,6.753,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2024,6.817,Percentage of total labour force (%)
+"Egypt, Arab Rep.",EGY,SL.UEM.TOTL.ZS,unemployment,2025,6.781,Percentage of total labour force (%)
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2000,0.544919175868766,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2001,0.716305157808995,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2002,0.792417084313167,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2003,0.866764326525345,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2004,0.899494854007062,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2005,0.905209485833333,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2006,0.915106799166666,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2007,0.932619195,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2008,1.052275,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2009,1.40496666666666,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2010,1.42998333333333,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2011,1.520625,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2012,1.82486666666666,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2013,1.98135,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2014,2.896575,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2015,3.71464166666666,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2016,3.90981666666666,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2017,4.35053333333333,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2018,4.585325,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2019,5.21736666666666,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2020,5.59570833333333,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2021,5.8057,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2022,8.2724,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2023,11.0204083333333,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2024,14.1819416666666,Local currency units per USD
+Ghana,GHA,PA.NUS.FCRF,exchange_rate,2025,12.556825,Local currency units per USD
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2000,3.70000008164408,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2001,4.00000012807919,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2002,4.49999955900331,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2003,5.200000133101,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2004,5.59999999077445,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2005,5.90000381855104,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2006,6.39991260618034,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2007,4.34681910440079,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2008,9.14979893831817,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2009,4.84448705175076,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2010,7.89971194051621,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2011,14.0471235803149,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2012,9.2927894063005,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2013,7.31252501678145,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2014,2.85624016330883,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2015,2.12075933817334,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2016,3.37346574966936,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2017,8.12889488100956,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2018,6.20007768127284,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2019,6.5077747939152,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2020,0.513941670628171,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2021,5.07646643533542,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2022,3.80484978178042,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2023,3.14009100080186,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2024,5.84746854280382,Percentage (%)
+Ghana,GHA,NY.GDP.MKTP.KD.ZG,gdp_growth,2025,5.95441714756899,Percentage (%)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2000,253.746936203344,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2001,263.542156494853,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2002,297.46164468774,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2003,358.39927142073,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2004,406.132105329565,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2005,478.611909191028,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2006,906.441027564887,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2007,1050.12461524926,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2008,1182.65761256016,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2009,1047.70430093586,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2010,1263.89251760539,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2011,1507.43573198753,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2012,1543.77524235764,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2013,2294.79584693743,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2014,1949.90832923846,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2015,1722.77282833606,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2016,1912.47991339951,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2017,2012.28662641265,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2018,2195.32166016377,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2019,2186.65822682613,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2020,2195.45481659987,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2021,2445.18662529344,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2022,2229.89122654479,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2023,2383.90410476221,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2024,2419.2518672482,Current US Dollars (USD)
+Ghana,GHA,NY.GDP.PCAP.CD,gdp_per_capita,2025,3257.1588903576,Current US Dollars (USD)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2000,40.240933123914,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2001,41.509496287803,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2002,9.36093239560312,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2003,29.7729797160383,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2004,18.0427388232564,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2005,15.4389920155908,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2006,11.6791839392491,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2007,10.7342665456292,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2008,16.494639613412,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2009,19.2469482220857,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2010,10.7333898354914,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2011,8.7284593709302,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2012,11.1863409441067,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2013,11.6661923071728,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2014,15.4896160333318,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2015,17.1499695007877,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2016,17.4546347070867,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2017,12.3719215507048,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2018,7.80876516610703,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2019,7.14364003330856,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2020,9.88728956269944,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2021,9.97108867504439,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2022,31.2558951049016,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2023,38.1069656296501,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2024,22.8483281157842,Percentage (%)
+Ghana,GHA,FP.CPI.TOTL.ZG,inflation,2025,14.2046755548989,Percentage (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2000,0.153615297625799,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2001,0.200008060324831,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2002,0.830284033818738,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2003,1.19305791098328,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2004,1.71679770389504,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2005,1.83119746104616,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2006,2.72317597313987,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2007,3.85,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2008,4.27,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2009,5.44,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2010,7.8,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2011,9.0,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2012,10.6,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2013,15.0,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2014,19.0,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2015,23.0,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2016,28.0,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2017,37.88420105,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2018,43.0,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2019,22.0732,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2020,62.51760101,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2021,68.6,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2022,69.91329956,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2023,70.67430115,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2024,72.17569733,Percentage of population (%)
+Ghana,GHA,IT.NET.USER.ZS,internet_users,2025,,Percentage of population (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2000,0.989341728951404,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2001,0.677053371360246,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2002,0.616348326370289,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2003,0.506473855028264,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2004,0.620473077410875,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2005,0.699403468222941,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2006,0.439256307347706,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2007,0.421654318546372,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2008,0.507726368620134,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2009,0.266591066260126,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2010,0.391372890188776,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2011,5.08048685091895,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2012,4.78155703124787,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2013,3.51474407100181,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2014,3.42103394358244,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2015,1.29146546233544,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2016,1.00121845985195,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2017,2.60564944915053,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2018,4.1465494257117,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2019,4.069102005933,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2020,2.25284947216201,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2021,4.05501917796431,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2022,,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2023,,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2024,,Percentage of GDP (%)
+Ghana,GHA,NY.GDP.PETR.RT.ZS,oil_rents,2025,,Percentage of GDP (%)
+Ghana,GHA,SP.POP.TOTL,population,2000,19637087.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2001,20167069.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2002,20729388.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2003,21296705.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2004,21868298.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2005,22449438.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2006,23040702.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2007,23642279.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2008,24249946.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2009,24862664.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2010,25474995.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2011,26095088.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2012,26734268.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2013,27386193.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2014,28041592.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2015,28696068.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2016,29356742.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2017,30008354.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2018,30637585.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2019,31258945.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2020,31887809.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2021,32518665.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2022,33149152.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2023,33787914.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2024,34427414.0,Number of people
+Ghana,GHA,SP.POP.TOTL,population,2025,35064272.0,Number of people
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2000,10.456,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2001,9.615,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2002,8.711,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2003,7.728,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2004,6.758,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2005,5.816,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2006,4.897,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2007,5.104,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2008,5.144,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2009,5.362,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2010,5.384,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2011,4.213,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2012,3.126,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2013,2.173,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2014,4.403,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2015,6.806,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2016,5.256,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2017,3.369,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2018,3.204,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2019,3.067,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2020,3.178,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2021,3.2,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2022,2.87,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2023,2.829,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2024,2.82,Percentage of total labour force (%)
+Ghana,GHA,SL.UEM.TOTL.ZS,unemployment,2025,2.979,Percentage of total labour force (%)
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2000,76.1755416666666,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2001,78.563195,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2002,78.7491416666666,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2003,75.9355694444444,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2004,79.1738760642135,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2005,75.554109451431,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2006,72.1008350178621,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2007,67.3176381242857,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2008,69.175319816226,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2009,77.3520122975789,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2010,79.2331517045454,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2011,88.8107699710456,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2012,84.5296017573529,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2013,86.1228788982654,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2014,87.9221638089726,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2015,98.1784533265271,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2016,101.504369498594,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2017,103.410004519013,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2018,101.301574049018,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2019,101.99129838935,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2020,106.450780158517,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2021,109.637746592367,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2022,117.865989201682,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2023,139.846383759616,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2024,134.822483279332,Local currency units per USD
+Kenya,KEN,PA.NUS.FCRF,exchange_rate,2025,129.302572099377,Local currency units per USD
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2000,0.599695390807426,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2001,3.77990649795343,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2002,0.546859530175595,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2003,2.93247554570904,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2004,5.10429977629738,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2005,5.90666607980057,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2006,6.47249430015484,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2007,6.85072976998784,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2008,0.232282744812977,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2009,3.30693981631089,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2010,8.05847360290906,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2011,5.1211061197056,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2012,4.56867961444982,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2013,3.7978483925754,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2014,5.02011100232484,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2015,4.96772112759767,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2016,4.21351706814744,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2017,3.83795817364721,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2018,5.64794640709219,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2019,5.11415885767801,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2020,-0.272766327438816,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2021,7.59048947333467,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2022,4.85998104287999,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2023,5.71999241214208,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2024,4.66019594571891,Percentage (%)
+Kenya,KEN,NY.GDP.MKTP.KD.ZG,gdp_growth,2025,4.63261093844984,Percentage (%)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2000,414.626365130846,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2001,410.700452474814,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2002,402.936385605382,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2003,442.898457253405,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2004,463.662781300121,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2005,523.456312433863,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2006,699.80237063381,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2007,840.201439476765,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2008,915.54435473604,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2009,1047.9678324485,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2010,1091.51873101194,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2011,1096.14499807675,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2012,1285.00536171512,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2013,1370.87885214659,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2014,1482.81566253497,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2015,1489.11959777284,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2016,1554.12610314423,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2017,1667.48447230835,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2018,1836.45275528993,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2019,1960.40808854893,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2020,1927.66459027849,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2021,2061.35622089594,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2022,2109.56288513137,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2023,1942.58802756191,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2024,2133.46193404026,Current US Dollars (USD)
+Kenya,KEN,NY.GDP.PCAP.CD,gdp_per_capita,2025,2362.86091198611,Current US Dollars (USD)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2000,9.98002515350979,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2001,5.73859814341466,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2002,1.96130821739162,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2003,9.81569062979653,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2004,11.6240355442426,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2005,10.3127783574682,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2006,14.4537342081707,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2007,9.75888023027529,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2008,26.2398166445062,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2009,9.23412592394651,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2010,3.96138889115385,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2011,14.0224913014704,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2012,9.37777003547598,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2013,5.71749357037732,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2014,6.87815499275948,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2015,6.58215429284778,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2016,6.29724953814624,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2017,8.00564967709944,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2018,4.68980646776329,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2019,5.23963795764792,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2020,5.40516207933392,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2021,6.10793603659176,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2022,7.65986268272223,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2023,7.67139634029402,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2024,4.48978854243447,Percentage (%)
+Kenya,KEN,FP.CPI.TOTL.ZG,inflation,2025,4.0693076061457,Percentage (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2000,0.318059713612037,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2001,0.619782266151425,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2002,1.20777388492125,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2003,2.94190286101524,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2004,3.0235280420962,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2005,3.101900101,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2006,3.599999905,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2007,4.400000095,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2008,5.199999809,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2009,6.1,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2010,7.2,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2011,8.800000191,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2012,10.5,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2013,13.0,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2014,16.5,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2015,16.5878548475992,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2016,16.6,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2017,17.82710075,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2018,19.5,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2019,22.6687733618171,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2020,24.7227993,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2021,26.96290016,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2022,29.40589905,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2023,32.07040024,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2024,34.97622513,Percentage of population (%)
+Kenya,KEN,IT.NET.USER.ZS,internet_users,2025,,Percentage of population (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2000,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2001,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2002,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2003,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2004,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2005,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2006,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2007,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2008,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2009,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2010,0.0166382187818553,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2011,0.0288123870707702,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2012,0.0230878177338188,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2013,0.0251947780243645,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2014,0.0225273671136455,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2015,0.0076633080251844,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2016,0.0065870720582815,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2017,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2018,0.0014697438220376,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2019,0.0028424927071065,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2020,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2021,0.0,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2022,,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2023,,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2024,,Percentage of GDP (%)
+Kenya,KEN,NY.GDP.PETR.RT.ZS,oil_rents,2025,,Percentage of GDP (%)
+Kenya,KEN,SP.POP.TOTL,population,2000,30642890.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2001,31619170.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2002,32629808.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2003,33652223.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2004,34713455.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2005,35796484.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2006,36904008.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2007,38036349.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2008,39206351.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2009,40408891.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2010,41598567.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2011,42758461.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2012,43888303.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2013,44986791.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2014,46051440.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2015,47088526.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2016,48139687.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2017,49197766.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2018,50207107.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2019,51202827.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2020,52217334.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2021,53219166.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2022,54252461.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2023,55339003.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2024,56432944.0,Number of people
+Kenya,KEN,SP.POP.TOTL,population,2025,57532493.0,Number of people
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2000,2.884,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2001,2.876,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2002,2.916,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2003,2.869,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2004,2.844,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2005,2.739,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2006,2.673,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2007,2.642,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2008,2.751,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2009,2.816,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2010,2.793,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2011,2.699,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2012,2.678,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2013,2.762,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2014,2.767,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2015,2.762,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2016,2.757,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2017,3.542,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2018,4.284,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2019,5.014,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2020,5.613,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2021,5.693,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2022,5.565,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2023,5.409,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2024,5.487,Percentage of total labour force (%)
+Kenya,KEN,SL.UEM.TOTL.ZS,unemployment,2025,5.449,Percentage of total labour force (%)
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2000,101.697333333333,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2001,111.23125,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2002,120.578158333333,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2003,129.22235,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2004,132.888025,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2005,131.274333333333,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2006,128.651666666666,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2007,125.808108333333,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2008,118.566666666666,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2009,148.88,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2010,150.2975,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2011,153.8625,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2012,157.5,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2013,157.311666666666,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2014,158.552641666666,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2015,192.440333333333,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2016,253.492,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2017,305.790109160004,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2018,306.083688245234,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2019,306.920951495222,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2020,358.810797258297,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2021,401.152029220779,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2022,425.979158066857,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2023,645.194067883201,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2024,1478.96519740023,Local currency units per USD
+Nigeria,NGA,PA.NUS.FCRF,exchange_rate,2025,1518.38094813367,Local currency units per USD
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2000,5.01593475936546,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2001,5.91768464924425,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2002,15.3291557409618,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2003,7.34719496793299,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2004,9.25055822923169,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2005,6.43851652535925,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2006,6.05942803202491,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2007,6.59113036066867,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2008,6.76447277784263,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2009,8.03692510100366,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2010,8.00565591623166,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2011,5.30792420293915,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2012,4.23006117492493,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2013,6.67133539308232,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2014,6.30971865521856,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2015,2.65269329541779,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2016,-1.61686894903467,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2017,0.805886619091581,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2018,1.92275734199798,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2019,2.20842927835211,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2020,-6.36889840468527,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2021,1.109252540249,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2022,4.31882949157136,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2023,3.31590368111438,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2024,4.07106650147703,Percentage (%)
+Nigeria,NGA,NY.GDP.MKTP.KD.ZG,gdp_growth,2025,4.01336180700973,Percentage (%)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2000,547.318298903379,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2001,566.428231812933,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2002,712.164852077686,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2003,763.388745367223,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2004,962.48104194733,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2005,1211.37703504386,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2006,1599.53891556365,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2007,1815.52697545827,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2008,2154.10543545364,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2009,1820.48633854782,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2010,2202.25672957344,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2011,2418.41316975875,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2012,2633.19734671361,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2013,2872.79083379398,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2014,3088.72131316169,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2015,2585.73360671797,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2016,2070.4127339595,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2017,1876.34027111773,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2018,2057.87944554011,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2019,3189.81286496183,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2020,2797.184580679,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2021,2787.48779220991,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2022,2899.16047469267,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2023,2138.76383718757,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2024,1084.16041805058,Current US Dollars (USD)
+Nigeria,NGA,NY.GDP.PCAP.CD,gdp_per_capita,2025,1224.25410237743,Current US Dollars (USD)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2000,6.93329215565159,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2001,18.8736462093862,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2002,12.8765792031098,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2003,14.0317836131436,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2004,14.9980338183251,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2005,17.8634933661604,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2006,8.22743678120907,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2007,5.38610421570143,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2008,11.5830547966809,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2009,12.5379242951095,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2010,13.7400521363694,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2011,10.8261371880018,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2012,12.2242413020582,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2013,8.49551838265678,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2014,8.04741087967907,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2015,9.00943498007706,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2016,15.6968126387972,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2017,16.5022662139641,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2018,12.0951065173431,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2019,11.3964223378114,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2020,13.2460234276598,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2021,16.9528457221607,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2022,18.8471877843274,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2023,24.6595502031139,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2024,33.2416590552748,Percentage (%)
+Nigeria,NGA,FP.CPI.TOTL.ZG,inflation,2025,23.0101235833333,Percentage (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2000,0.0640808079494101,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2001,0.089901370457273,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2002,0.320461975542327,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2003,0.558576244860521,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2004,1.28613764134527,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2005,3.54915571796492,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2006,5.54503608300536,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2007,6.769999981,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2008,8.0,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2009,9.300000191,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2010,11.5,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2011,13.80000019,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2012,16.10000038,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2013,19.10000038,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2014,21.0,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2015,22.51420021,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2016,24.13750076,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2017,25.87789917,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2018,27.74370003,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2019,29.74410057,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2020,31.88879967,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2021,35.50979996,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2022,39.14720154,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2023,40.06399918,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2024,41.21139908,Percentage of population (%)
+Nigeria,NGA,IT.NET.USER.ZS,internet_users,2025,,Percentage of population (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2000,22.0499275524037,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2001,15.2354705757222,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2002,11.1446404443733,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2003,12.1202192108891,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2004,14.4183481253408,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2005,17.695803965512,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2006,14.8803763188218,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2007,13.8343651228424,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2008,15.529944090028,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2009,8.67398818858118,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2010,12.0986066267503,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2011,15.5113433318503,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2012,13.0904727134596,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2013,9.88011499667836,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2014,7.0738580847829,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2015,2.78345150643408,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2016,2.68429043488445,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2017,5.47262882301734,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2018,7.69068153465603,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2019,6.51475056054778,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2020,3.31241719212516,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2021,6.24674969005013,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2022,,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2023,,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2024,,Percentage of GDP (%)
+Nigeria,NGA,NY.GDP.PETR.RT.ZS,oil_rents,2025,,Percentage of GDP (%)
+Nigeria,NGA,SP.POP.TOTL,population,2000,126382494.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2001,129862595.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2002,133471989.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2003,137202644.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2004,141057045.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2005,145017253.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2006,149077334.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2007,153267261.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2008,157595014.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2009,162049464.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2010,166642886.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2011,171379598.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2012,176200625.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2013,181049443.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2014,185896915.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2015,190671878.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2016,195443700.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2017,200254579.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2018,204938755.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2019,209485641.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2020,213996181.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2021,218529286.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2022,223150896.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2023,227882945.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2024,232679478.0,Number of people
+Nigeria,NGA,SP.POP.TOTL,population,2025,237527782.0,Number of people
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2000,3.953,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2001,3.9,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2002,3.669,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2003,3.637,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2004,3.59,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2005,3.727,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2006,3.749,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2007,3.794,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2008,3.792,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2009,3.763,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2010,3.744,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2011,3.77,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2012,3.761,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2013,3.711,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2014,3.9,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2015,4.134,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2016,4.499,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2017,4.83,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2018,5.069,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2019,5.206,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2020,5.714,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2021,5.404,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2022,3.827,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2023,3.074,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2024,3.045,Percentage of total labour force (%)
+Nigeria,NGA,SL.UEM.TOTL.ZS,unemployment,2025,3.064,Percentage of total labour force (%)
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2000,6.93982833333333,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2001,8.60918083333333,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2002,10.5407466666666,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2003,7.56474916666666,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2004,6.4596925,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2005,6.35932833333333,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2006,6.77154916666666,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2007,7.045365,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2008,8.26122333333333,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2009,8.47367415824888,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2010,7.32122196115288,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2011,7.26113213232734,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2012,8.20996862659331,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2013,9.65505606913526,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2014,10.852655568783,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2015,12.7589308811644,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2016,14.7096108855267,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2017,13.3238014244991,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2018,13.2339264715833,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2019,14.4484270548333,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2020,16.4591053903333,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2021,14.7786782139166,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2022,16.3558534845,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2023,18.4502441785,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2024,18.3286575505,Local currency units per USD
+South Africa,ZAF,PA.NUS.FCRF,exchange_rate,2025,17.8887489855833,Local currency units per USD
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2000,4.20000000067826,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2001,2.70000000019104,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2002,3.70037440406668,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2003,2.94907546754213,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2004,4.55455990721774,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2005,5.27705197295467,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2006,5.60380645895889,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2007,5.36047405394162,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2008,3.1910438863288,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2009,-1.53808913525583,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2010,3.03973288127956,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2011,3.16855627858818,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2012,2.39623238465745,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2013,2.48546800826588,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2014,1.41382645223793,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2015,1.32186223678229,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2016,0.664552307858116,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2017,1.15794695181735,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2018,1.55678384721676,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2019,0.25993557687633,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2020,-6.1689177146757,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2021,4.85864865060148,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2022,2.05813661692193,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2023,0.80610455095804,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2024,0.534843531905139,Percentage (%)
+South Africa,ZAF,NY.GDP.MKTP.KD.ZG,gdp_growth,2025,1.11462608103956,Percentage (%)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2000,3217.84693448467,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2001,2847.15191945908,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2002,2688.23676032806,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2003,4062.21755993786,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2004,5221.46333731721,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2005,5836.87663325127,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2006,6077.38293388876,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2007,6591.85535960564,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2008,6184.75474328399,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2009,6374.70560042992,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2010,7973.47195771517,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2011,8646.05571071635,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2012,8076.97678479741,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2013,7331.65467384919,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2014,6856.73137092522,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2015,6112.27382485974,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2016,5651.20585165749,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2017,6618.33508255701,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2018,6914.1780318076,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2019,6533.71121032856,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2020,5580.60383075189,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2021,6828.75624590017,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2022,6534.24867783397,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2023,6034.27208964673,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2024,6267.186814093,Current US Dollars (USD)
+South Africa,ZAF,NY.GDP.PCAP.CD,gdp_per_capita,2025,6597.71450918774,Current US Dollars (USD)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2000,5.33895913599827,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2001,5.70189483049608,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2002,9.494713780996,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2003,5.67942414068799,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2004,-0.692039437857686,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2005,2.06285308223427,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2006,3.24390765419229,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2007,6.17781214809387,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2008,9.90998456005466,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2009,7.23809523809526,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2010,4.06749555950263,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2011,5.0008533879502,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2012,5.73797139141739,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2013,5.78016910069175,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2014,6.13282953059149,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2015,4.51869094892506,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2016,6.60290842394871,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2017,5.18618655524149,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2018,4.50987264867387,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2019,4.10285075461155,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2020,3.23238831615113,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2021,4.61874544887136,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2022,7.03987272546481,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2023,6.07524384579659,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2024,4.36115246518962,Percentage (%)
+South Africa,ZAF,FP.CPI.TOTL.ZG,inflation,2025,3.20550474112603,Percentage (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2000,5.34855973203537,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2001,6.34661931839768,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2002,6.71032243705404,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2003,7.00769172611251,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2004,8.4251186825406,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2005,7.48854252992921,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2006,7.60713967477381,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2007,8.06537517355504,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2008,8.43,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2009,10.0,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2010,24.0,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2011,33.97,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2012,41.0,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2013,46.5,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2014,49.0,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2015,51.91910172,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2016,54.0,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2017,56.16740036,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2018,62.40000153,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2019,69.69689941,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2020,72.1128006,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2021,74.96859741,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2022,78.29319763,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2023,78.33670044,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2024,78.35759735,Percentage of population (%)
+South Africa,ZAF,IT.NET.USER.ZS,internet_users,2025,,Percentage of population (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2000,0.875739339218175,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2001,0.745230225250187,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2002,0.832634911746463,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2003,0.536032181150966,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2004,0.667895474741674,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2005,0.868907024012435,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2006,0.921713555012485,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2007,0.95369683953937,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2008,1.37926877732773,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2009,0.593295688910259,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2010,0.707879978156825,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2011,0.964145883537292,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2012,0.9800580532574,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2013,0.949068014891185,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2014,0.692856799731489,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2015,0.194337594746037,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2016,0.182131538345159,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2017,0.291332796001722,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2018,0.407106590566775,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2019,0.372819688324446,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2020,0.213036196999097,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2021,0.395954206545834,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2022,,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2023,,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2024,,Percentage of GDP (%)
+South Africa,ZAF,NY.GDP.PETR.RT.ZS,oil_rents,2025,,Percentage of GDP (%)
+South Africa,ZAF,SP.POP.TOTL,population,2000,47159719.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2001,47566800.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2002,48019415.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2003,48500348.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2004,48991421.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2005,49490033.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2006,49998277.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2007,50528584.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2008,51114599.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2009,51728516.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2010,52344051.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2011,52995205.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2012,53782567.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2013,54678791.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2014,55594838.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2015,56723537.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2016,57259551.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2017,57635162.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2018,58613001.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2019,59587885.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2020,60562381.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2021,61502603.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2022,62378410.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2023,63212384.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2024,64007187.0,Number of people
+South Africa,ZAF,SP.POP.TOTL,population,2025,64747319.0,Number of people
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2000,22.788,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2001,22.652,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2002,22.579,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2003,22.679,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2004,22.567,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2005,22.472,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2006,22.304,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2007,22.26,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2008,22.407,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2009,23.523,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2010,24.683,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2011,24.639,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2012,24.727,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2013,24.561,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2014,24.89,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2015,25.149,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2016,26.536,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2017,27.035,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2018,26.906,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2019,28.468,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2020,29.217,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2021,34.007,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2022,33.268,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2023,32.098,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2024,32.279,Percentage of total labour force (%)
+South Africa,ZAF,SL.UEM.TOTL.ZS,unemployment,2025,32.391,Percentage of total labour force (%)

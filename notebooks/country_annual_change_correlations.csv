@@ -1,0 +1,16 @@
+Country,Variable 1,Variable 2,Pearson Correlation,Observations
+"Egypt, Arab Rep.",gdp_per_capita_pct_change,internet_users_pct_change,-0.333671936212814,24
+"Egypt, Arab Rep.",population_pct_change,gdp_per_capita_pct_change,-0.13835236926141808,25
+"Egypt, Arab Rep.",exchange_rate_pct_change,inflation,0.749364189390737,25
+Ghana,gdp_per_capita_pct_change,internet_users_pct_change,0.08700315849599792,24
+Ghana,population_pct_change,gdp_per_capita_pct_change,0.25263868039891024,25
+Ghana,exchange_rate_pct_change,inflation,0.5693958693101719,25
+Kenya,gdp_per_capita_pct_change,internet_users_pct_change,-0.10094753022068609,24
+Kenya,population_pct_change,gdp_per_capita_pct_change,0.29813324711995587,25
+Kenya,exchange_rate_pct_change,inflation,0.05024539813267212,25
+Nigeria,gdp_per_capita_pct_change,internet_users_pct_change,0.42147058384944874,24
+Nigeria,population_pct_change,gdp_per_capita_pct_change,0.3795019561233967,25
+Nigeria,exchange_rate_pct_change,inflation,0.7431337823916968,25
+South Africa,gdp_per_capita_pct_change,internet_users_pct_change,0.26521884132616413,24
+South Africa,population_pct_change,gdp_per_capita_pct_change,-0.39171319044195074,25
+South Africa,exchange_rate_pct_change,inflation,0.48225290338014304,25
