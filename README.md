@@ -111,4 +111,4 @@ The starter repository contains documentation and summary tables, but not the or
 
 ## Author
 
-Add your preferred name, LinkedIn profile and GitHub profile here before publishing.
+BASHIR LAWAN ISYAKU, https://lbash-bk.github.io/bashir-lawan-isyaku-portfolio/
