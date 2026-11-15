@@ -70,7 +70,7 @@ african_economic_indicators_analysis/
 - Nigeria had the highest average oil rents as a share of GDP (**10.82%**) over the available observations. Oil-rent data in this analysis ends in 2021.
 - In the pooled observations, GDP per capita and internet use had a positive Pearson correlation (**r = 0.564**), while GDP growth and unemployment had a negative correlation (**r = -0.408**). These are associations, not evidence of causation.
 
-See [`docs/project_report.md`](docs/project_report.md) for the full methodology, results, interpretation and limitations.
+See [`reports/project_report.md`](reports/project_report.md) for the full methodology, results, interpretation and limitations.
 
 ## Dashboard
 
@@ -85,7 +85,7 @@ Add the `.pbix` file and exported dashboard screenshots to the `powerbi/` folder
 
 ## Data source
 
-World Bank, World Development Indicators (WDI). Indicator names and codes are listed in [`docs/data_dictionary.md`](docs/data_dictionary.md).
+World Bank, World Development Indicators (WDI). Indicator names and codes are listed in [`reports/data_dictionary.md`](reports/data_dictionary.md).
 
 For reproducibility, include the source download date and the exact World Bank download/API query in your notebook or a separate source-notes file. World Bank observations can be revised.
 
@@ -98,16 +98,6 @@ For reproducibility, include the source download date and the exact World Bank d
 - Missing values were not treated as zero.
 - Country-level correlations are based on relatively small annual samples and should be interpreted cautiously.
 
-## How to reproduce
-
-1. Place the original downloaded World Bank files in `data/raw/`.
-2. Add the completed notebook(s) to `notebooks/`.
-3. Run the notebook cells in order to reproduce cleaning, reshaping, analysis and exports.
-4. Save the cleaned country-year table as `data/processed/african_economic_indicators.csv`.
-5. Save the annual percentage-change table as `data/processed/african_economic_indicators_changes.csv`.
-6. Open the Power BI `.pbix` report and refresh the data source paths if necessary.
-
-The starter repository contains documentation and summary tables, but not the original data, completed notebook or Power BI file. Add those project artifacts before treating the repository as fully reproducible.
 
 ## Author
 
