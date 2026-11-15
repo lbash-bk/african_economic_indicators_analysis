@@ -244,11 +244,3 @@ The Power BI dashboard turns the prepared dataset and analytical findings into a
 ## 11. Source and reproducibility notes
 
 Source: World Bank, World Development Indicators (WDI).
-
-Before publishing, record:
-- the exact date the data was downloaded;
-- the API request or download filters used;
-- the exact notebook/script used to create the cleaned dataset;
-- the version of the Power BI file and any data-source path changes.
-
-Do not claim the project is fully reproducible until the source data, analysis notebook/scripts and Power BI report have been added to the repository.
